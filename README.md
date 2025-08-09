@@ -1,0 +1,2 @@
+# devicereg
+Registro de dispositivos
